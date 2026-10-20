@@ -1,4 +1,8 @@
-<h1 align="center">Olá, eu sou o Murilo 👋</h1>
+<h1 align="center">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="36" align="center" />
+  Murilo da Silva Pereira
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="36" align="center" />
+</h1>
 <p align="center"><b>Engenheiro DevOps · Cloud AWS · Terraform · DevSecOps</b><br>Brasília, Brasil</p>
 
 ---
