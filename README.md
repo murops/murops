@@ -18,6 +18,12 @@ Sou Engenheiro DevOps com quase 4 anos de experiência em **infraestrutura AWS**
 - 🚀 **CI/CD:** pipelines com GitHub Actions e Azure DevOps, aplicações em Docker
 - 💻 **Desenvolvimento:** Python, Go e TypeScript (Next.js/React) com PostgreSQL e MongoDB
 
+### Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [terraform-aws-hybrid-network](https://github.com/murops/terraform-aws-hybrid-network) | Rede híbrida escritório-AWS em módulos Terraform: VPC em 3 camadas, VPN site-to-site IPsec, EC2 sem SSH e RDS isolado. Dev e prod com o mesmo código, testes com `terraform test` e scan do Trivy no CI. |
+
 ### Stack
 
 <p>
